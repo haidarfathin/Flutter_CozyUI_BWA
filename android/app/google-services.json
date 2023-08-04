@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493163838042",
+    "project_id": "flutter-newbie-6adda",
+    "storage_bucket": "flutter-newbie-6adda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493163838042:android:8629e8354f0bf639e47663",
+        "android_client_info": {
+          "package_name": "com.example.cozy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493163838042-fffmoq26helst8gf3k8hg8dvjcaqvrrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTV5fECyz_bbhRvy6dmRZSBioQpUm9WLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493163838042-fffmoq26helst8gf3k8hg8dvjcaqvrrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
